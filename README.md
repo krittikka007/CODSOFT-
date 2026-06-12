@@ -59,6 +59,5 @@ A simple Contact Book application developed using Python. It allows users to sto
 3. Enter contact details as required.
 4. Manage contacts easily.
 
-
 ## Author
-Krittikka S.P
+Krittikka 
