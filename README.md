@@ -58,6 +58,3 @@ A simple Contact Book application developed using Python. It allows users to sto
 2. Choose an option from the menu.
 3. Enter contact details as required.
 4. Manage contacts easily.
-
-## Author
-Krittikka 
